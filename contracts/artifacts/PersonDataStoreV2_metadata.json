@@ -38,6 +38,13 @@
 			},
 			{
 				"inputs": [],
+				"name": "incrementAge",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "name",
 				"outputs": [
 					{
@@ -117,11 +124,11 @@
 	},
 	"sources": {
 		"contracts/PersonalDataStorageV2.sol": {
-			"keccak256": "0xa46fae40be95678b2497abebafae0b2f7c2766286ddd4adf97de44338d2fb761",
+			"keccak256": "0x2cb4ce509f4e430bc2a40043f90c3a58b8d11bd0f0884364001bcbe651ca4b02",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f28ce66b9be8e2c15b2fb7f6114253a019ae6b2b492187057d9bef6e2692906f",
-				"dweb:/ipfs/QmSQmZcgKzCK7YWGUba9g6qm8nwu79XFnKbj7bP2Nz4eFS"
+				"bzz-raw://af59d2f03f30aef248e619762b6da8cd98bf4edfac3dfd586fca5ea88f36933c",
+				"dweb:/ipfs/QmXoMD6RbiQHjXdAkygddvhRpkr6KCfteqjm2LzaD6PSbn"
 			]
 		}
 	},

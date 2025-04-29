@@ -34,4 +34,17 @@ contract PersonDataStoreV2 {
         return brazilian;
     }
     
+
+    //Função só pode ser visualidada dentro do contrato e de quem herda dele
+    //uma função pura só faz uma única operação, ela não altera o estado da blockchain
+    function addValues(uint _value1, uint _value2) internal pure returns(uint){
+        return _value1 + _value2;
+    } 
+
+    //Essa função só pode ser acessada por um operador externo ao contrato
+    function incrementAge() external {
+        age = addValues(age, 1);
+    }
+
+
  }
