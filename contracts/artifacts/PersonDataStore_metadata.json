@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"contracts/PersonDataStore.sol": {
-			"keccak256": "0x1f14dec9ffe065449b5a3e1bdea51c37be8df56ce38e36a2007e9b1eb8ff41b0",
+			"keccak256": "0xccf7672388d13057ba6f913a1cfd7f3f187a62ace54a7025acbc50e1000d03c4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1159d8e726559735aa0d78144593fd532ea93def3a29dd83c8d8f060c21c7b34",
-				"dweb:/ipfs/QmWqAR388WGscirvhqF4XQ9221PtEKZcNnqkZkagdX7aiZ"
+				"bzz-raw://dbc326696a9f6431acc9ba1b253570402d35d7250cee3fbf817e3b56866441fb",
+				"dweb:/ipfs/QmWfzfZQB8aLCsE7CvbkGzS9ZQoX6kxgEYruRw3k6K6hFX"
 			]
 		}
 	},
