@@ -1,0 +1,90 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getGradeStatus",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "gradeStatus",
+				"outputs": [
+					{
+						"internalType": "enum ScholarHistory.GradeStatus",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_value",
+						"type": "uint256"
+					}
+				],
+				"name": "updateGradeStatus",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ScholarHistory.sol": "ScholarHistory"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ScholarHistory.sol": {
+			"keccak256": "0xa3e0d8d8c5e5cb715934662e99fce3480c4cd59a84016f3a573502b768fa33bb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f22f8847bb020e053cf6d6a0df761e7c0f2064928dd16362b8e1e042c3f47d20",
+				"dweb:/ipfs/QmQgCUEk2grEaaZbTA4Yr5gePHbnKpt9ERz4bZtWWPWXEk"
+			]
+		}
+	},
+	"version": 1
+}

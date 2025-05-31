@@ -124,11 +124,11 @@
 	},
 	"sources": {
 		"contracts/PersonalDataStorageV2.sol": {
-			"keccak256": "0x2cb4ce509f4e430bc2a40043f90c3a58b8d11bd0f0884364001bcbe651ca4b02",
+			"keccak256": "0x835049af5094a36d42b1ceee9734a5efaec5668976fafec2371657df66201d28",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://af59d2f03f30aef248e619762b6da8cd98bf4edfac3dfd586fca5ea88f36933c",
-				"dweb:/ipfs/QmXoMD6RbiQHjXdAkygddvhRpkr6KCfteqjm2LzaD6PSbn"
+				"bzz-raw://934d085b84dee440fd98a081767cb7bdc4300c441b41c8ff4d9f5d11c7a12d2c",
+				"dweb:/ipfs/QmXh3axcKrs9SCYgH7iaLGbxB9SG6S8GtHts8gC9KyQsTS"
 			]
 		}
 	},
